@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "VECExtensions": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55296;http://localhost:55301"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnectionString": "Server=localhost;database=Test_Back; User Id=sa; Password=poi123; Pooling =true;Trusted_Connection=True;TrustServerCertificate=True"
+  }
+}
